@@ -1,4 +1,5 @@
 # Columbia Asia Hospital — Healthcare Analytics & Power BI Dashboard
+![Main Dashboard](images/main-dashboard.png)
 
 ## 📋 Overview
 Healthcare analytics project analyzing hospital revenue, patient satisfaction, and operational efficiency using SQL and Power BI. Includes an interactive dashboard, staffing recommendations, and revenue insights for Columbia Asia Hospital.
